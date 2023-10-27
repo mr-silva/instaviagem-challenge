@@ -22,7 +22,7 @@ ou
 foo@bar:~$ yarn dev
 ```
 
-To modify the ranges of dates you can simply alter the `testInput` variable in the line `115`:
+To modify the ranges of dates you can simply alter the `testInput` variable in the line `33`:
 
 ```typescript
 {
