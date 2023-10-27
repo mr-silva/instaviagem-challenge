@@ -37,4 +37,6 @@ To modify the ranges of dates you can simply alter the `testInput` variable in t
 }
 ```
 
+The result of the check is going to be displayed in the `testResponse.json` file in the root directory.
+
 :warning: To confirm the modifications and update a file, you should save the code so that it automatically respawn the app.
